@@ -1,7 +1,6 @@
 <p align="center">
  <h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰</h2>
- <a href="https://www.github.com/NguyenMinhHieu261101" target="_blank" rel="noreferrer"><img src="https://visitor-counter-badge.vercel.app/api/NguyenMinhHieu261101"</a> 
- <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" /> 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" /> 
 <p align="center">
  <h3> ❤️ Connect with Me ❤️</h3> 
  <br>
