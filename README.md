@@ -14,7 +14,7 @@
  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" />
-  <img src="https://icons8.com/icon/bzf0DqjXFHIW/react"/>
+  <img src="![image](https://user-images.githubusercontent.com/73094380/206358018-49a236f5-4ced-4798-a1a8-9c4aa09a1dc4.png)"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
