@@ -1,6 +1,4 @@
 ## Hi
-<p align="center"> <img src="https://github.com/account" alt="NguyenMinhHieu261101" width="180px"/> 
-
  <h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰</h2>
  <p align="center">
  <a href="https://www.github.com/NguyenMinhHieu261101" target="_blank" rel="noreferrer"><img src="https://visitor-counter-badge.vercel.app/api/NguyenMinhHieu261101" 
@@ -20,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/front-end.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
