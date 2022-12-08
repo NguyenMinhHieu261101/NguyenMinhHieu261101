@@ -1,17 +1,17 @@
 ## Hi
- <h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰</h2>
- <p align="center">
- <a href="https://www.github.com/NguyenMinhHieu261101" target="_blank" rel="noreferrer"><img src="https://visitor-counter-badge.vercel.app/api/NguyenMinhHieu261101" </a>
- <a href="https://www.github.com/NguyenMinhHieu261101" target="_blank" rel="noreferrer"><img src="[https://visitor-counter-badge.vercel.app/api/NguyenMinhHieu261101](https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Profile%20views&color=blueviolet&style=flat)"</a>                                                                                            
-</p>
-
-<h3> ❤️ &nbsp;Connect with Me </h3> 
+<h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰</h2>
+<p align="center">
+<a href="https://www.github.com/NguyenMinhHieu261101" target="_blank" rel="noreferrer"><img src="https://visitor-counter-badge.vercel.app/api/NguyenMinhHieu261101" 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Profile%20views&color=blueviolet&style=flat" alt="NguyenMinhHieu261101" /> <h3> ❤️ &nbsp;Connect with Me </h3> 
 
 <p align="center">
 <br>
 <a href="mailto:nguyenminhhieu26112001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.facebook.com/hieucun261101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+</p>                                                                                           
 </p>
+
+
 
 ## Skills:
 <p align="center">
