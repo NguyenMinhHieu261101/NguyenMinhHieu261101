@@ -27,8 +27,8 @@
     </td>
         <td>
       <p align="center"> 
-<!--         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/> -->
-        <img width="420"  alt="GIF" src="https://github.com/yuredev/yuredev/raw/master/code.gif?raw=true" height="200" style="max-width: 150%;">
+        <img src="https://github.com/yuredev/yuredev/raw/master/code.gif?raw=true" alt="dev" width="100%"/>
+<!--         <img width="420"  alt="GIF" src="https://github.com/yuredev/yuredev/raw/master/code.gif?raw=true" height="200" style="max-width: 150%;"> -->
       </p>
     </td>
   </tr>
