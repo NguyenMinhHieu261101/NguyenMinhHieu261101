@@ -14,7 +14,7 @@
  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" />
-  <img src="https://img.icons8.com/color/48/000000/react-original-wordmark.png" />
+  <img src="https://img.icons8.com/color/48/000000/React.png" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
