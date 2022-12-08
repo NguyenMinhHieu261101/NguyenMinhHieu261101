@@ -23,12 +23,14 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact" alt="NguyenMinhHieu261101" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&theme=dark&show_icons=true" alt="NguyenMinhHieu261101" width="100%"/>
+      <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact&theme=chartreuse-dark"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact&theme=chartreuse-dark" alt="NguyenMinhHieu261101" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true"><img width="100%"  alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&amp;show_icons=true&amp;theme=chartreuse-dark" style="max-width: 240%;">
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact" alt="NguyenMinhHieu261101" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&theme=dark&show_icons=true" alt="NguyenMinhHieu261101" width="100%"/> -->
     </td>
     <td>
       <p align="center"> 
-        <img alt="Coder GIF" height=360 width=380 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+        <img alt="Coder GIF" height=360 width=480 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
       </p>
     </td>
   </tr>
