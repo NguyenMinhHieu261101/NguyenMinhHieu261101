@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" />
 <h3 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="360px" align="right" alt="Computador Kauã Marangoni" style="max-width: 100%;"></a></h3>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="360px" align="right" alt="Computador Kauã Marangoni" style="max-width: 100%;"></a></h3>
 
 <h3 align="center">❤️ Connect with Me ❤️</h3>
 <p align="center">
