@@ -1,4 +1,3 @@
-## Hi
 <h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰</h2>
 <p align="center">
  <a href="https://www.github.com/NguyenMinhHieu261101" target="_blank" rel="noreferrer"><img src="https://visitor-counter-badge.vercel.app/api/NguyenMinhHieu261101" 
