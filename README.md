@@ -4,9 +4,21 @@
 </p>
 
 
-## ❤️ Connect with Me ❤️:
-  <a align="center" href="https://www.facebook.com/hieucun261101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
-  <a align="center" href="mailto:nguyenminhhieu26112001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<h3 align="center">A front-end developer from Vietnam </h3>
+- ✍ I'm a student of: [FPT University](https://hcmuni.fpt.edu.vn/) (FPTU).
+
+- 🌱 I’m currently learning **Front-End.**
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-h%E1%BB%93ng-qu%C3%A2n-72953522a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:hongquan.contact@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/duong-hong-quan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>&nbsp;
+<a href="https://www.facebook.com/duonghongquan.contact/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+</p>
                                                                                     
 
 
