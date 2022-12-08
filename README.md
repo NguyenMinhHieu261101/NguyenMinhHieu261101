@@ -12,9 +12,6 @@
 </p>
                                                                                     
 <h3 align="center">Skills</h3>
-
-
-## Skills:
 <p align="center">
  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
