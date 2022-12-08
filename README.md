@@ -3,11 +3,11 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" /> 
  
 <h2 align="center">❤️ Connect with Me ❤️</h2>
- <p align="center">
+
  <br>
   <a href="mailto:nguyenminhhieu26112001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://www.facebook.com/hieucun261101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
-  </p>                                                                                         
+                                                                                           
 </p>
 
 
