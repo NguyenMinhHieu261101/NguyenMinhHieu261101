@@ -1,6 +1,6 @@
 <p align="center">
- <h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰</h2>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" /> 
+ <h2 align="center">Hello 🙋‍♂️, Welcome to Hieu's git page 🫰 <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" /> </h2>
+
 </p>
 
 <h2 align="center">❤️ Connect with Me ❤️</h2>
