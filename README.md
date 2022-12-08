@@ -4,10 +4,9 @@
 </p>
 
 
-
-  <h2 align="center">❤️ Connect with Me ❤️</h2>
-  <a align="center" href="mailto:nguyenminhhieu26112001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+## ❤️ Connect with Me ❤️:
   <a align="center" href="https://www.facebook.com/hieucun261101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+  <a align="center" href="mailto:nguyenminhhieu26112001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
                                                                                     
 
 
