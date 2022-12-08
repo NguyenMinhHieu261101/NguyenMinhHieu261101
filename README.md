@@ -25,6 +25,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact" alt="NguyenMinhHieu261101" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&theme=dark&show_icons=true" alt="NguyenMinhHieu261101" width="100%"/>
     </td>
-    
+        <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
   </tr>
 </table>
