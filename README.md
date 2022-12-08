@@ -30,7 +30,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img alt="Coder GIF" height=360 width=369 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
