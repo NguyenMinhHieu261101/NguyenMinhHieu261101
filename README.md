@@ -8,7 +8,7 @@
 <p align="center">
 <br>
   <a href="https://www.facebook.com/hieucun261101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
-
+  <a href="mailto:nguyenminhhieu261101@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
                                                                                     
 <h3 align="center"><img src="https://i.gifer.com/origin/56/5695ab0186b7ed8fd0a1ece35842139b_w200.gif" width="24px" height="24px" /> Skills <img src="https://i.gifer.com/origin/56/5695ab0186b7ed8fd0a1ece35842139b_w200.gif" width="24px" height="24px" /></h3>
