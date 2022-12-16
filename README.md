@@ -4,7 +4,7 @@
 <img src="https://i.gifer.com/origin/18/18dcf08c2e126a1cf6c335a076370b59_w200.gif" width="36px" />
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="360px" align="right" alt="Computador Kauã Marangoni" style="max-width: 100%;"></a></h3>
 
-<h3 align="center"> <img src="https://i.gifer.com/origin/0c/0c21ccafee69f3a846b87c7161acd6ab_w200.gif" width="36px" /> Connect with Me <img src="https://i.gifer.com/origin/0c/0c21ccafee69f3a846b87c7161acd6ab_w200.gif" width="36px" /> </h3>
+<h3 align="center"> <img src="https://i.gifer.com/origin/0c/0c21ccafee69f3a846b87c7161acd6ab_w200.gif" width="48px" /> Connect with Me <img src="https://i.gifer.com/origin/0c/0c21ccafee69f3a846b87c7161acd6ab_w200.gif" width="48px" /> </h3>
 <p align="center">
 <br>
   <a href="https://www.facebook.com/hieucun261101/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
