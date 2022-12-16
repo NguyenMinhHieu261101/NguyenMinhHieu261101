@@ -16,8 +16,8 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" color="white" width="48" height="48"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" color="white" alt="html5" width="48" height="48"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" color="white" alt="css3" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -29,8 +29,6 @@
     <td>
       <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact&theme=chartreuse-dark"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact&theme=chartreuse-dark" alt="NguyenMinhHieu261101" style="max-width: 100%;"></a>
       <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true"><img width="100%"  alt="Nguyễn Hữu Thành Nam Github Stats" src="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&amp;show_icons=true&amp;theme=chartreuse-dark" style="max-width: 240%;">
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhHieu261101&layout=compact" alt="NguyenMinhHieu261101" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenMinhHieu261101&theme=dark&show_icons=true" alt="NguyenMinhHieu261101" width="100%"/> -->
     </td>
     <td>
       <p align="center"> 
