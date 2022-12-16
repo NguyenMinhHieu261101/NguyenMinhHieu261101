@@ -13,7 +13,6 @@
                                                                                     
 <h3 align="center">Skills</h3>
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
