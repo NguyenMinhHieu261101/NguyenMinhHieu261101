@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" />
-<img src="https://s3-ap-southeast-1.amazonaws.com/kipalog.com/z14097j3qk_1_OF0xEMkWBv-69zvmNs6RDQ.gif" />
+<img src="https://www.paperflite.com/sites/default/files/2020-10/8%20Must-have%20Salesforce%20Integrations-Paperflite.gif" />
 <h3 align="center"><img src="https://i.gifer.com/origin/18/18dcf08c2e126a1cf6c335a076370b59_w200.gif" width="36px" />Hello, Welcome to Hieu's github 
 <img src="https://i.gifer.com/origin/f9/f90fc85cf18e351c565692dcb1c0feeb_w200.gif" width="36px" />
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="360px" align="right" alt="Computador Kauã Marangoni" style="max-width: 100%;"></a></h3>
@@ -31,7 +31,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://tranetech.com/wp-content/uploads/2021/02/property-gif.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
