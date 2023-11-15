@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Số%20lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" />
+<img src="https://komarev.com/ghpvc/?username=NguyenMinhHieu261101&label=Lượt%20truy%20cập%20trang&color=0e75b6&style=flat" alt="NguyenMinhHieu261101" />
 <img src="https://www.paperflite.com/sites/default/files/2020-10/8%20Must-have%20Salesforce%20Integrations-Paperflite.gif" />
 <h3 align="center"><img src="https://i.gifer.com/origin/18/18dcf08c2e126a1cf6c335a076370b59_w200.gif" width="36px" />Hello, Welcome to Hieu's github 
 <img src="https://i.gifer.com/origin/f9/f90fc85cf18e351c565692dcb1c0feeb_w200.gif" width="36px" />
